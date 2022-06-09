@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jhonsalcedo96
 - 👀 Highly motivated and experienced military and engineer, seeking a full
 -  remote job that utilizes acquired knowledge, experience, and education.
-- 🌱 Skills learning Native, Node.js, AngularJS, MySQL, NoSQL.
+- 🌱 Skills Native, Node.js, AngularJS, MySQL, NoSQL.
       Security+, Network+, CCNA, Native, Node.js, AngularJS, MySQL, NoSQL
       Security+, Network+ and CCNA. 
 - 💞️ I’m looking to collaborate on any project
